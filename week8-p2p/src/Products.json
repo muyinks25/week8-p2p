@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Jana",
+    "price": 100,
+    "color": "Red",
+    "type": "Dress",
+    "image": "/images/reddress.jpeg"
+  },
+  {
+    "name": "Gucci",
+    "price": 500,
+    "color": "Green",
+    "type": "Dress",
+    "image": "/images/greendress.jpeg"
+  },
+  {
+    "name": "Debby",
+    "price": 400,
+    "color": "Black",
+    "type": "Dress",
+    "image": "/images/blackdress.jpeg"
+  },
+  {
+    "name": "Tutu top",
+    "price": 400,
+    "color": "Black",
+    "type": "Top",
+    "image": "/images/top2.jpeg"
+  },
+  {
+    "name": "Armless",
+    "price": 200,
+    "color": "Red",
+    "type": "Top",
+    "image": "/images/top1.jpeg"
+  },
+  {
+    "name": "YAS",
+    "price": 200,
+    "color": "Black",
+    "type": "Dress",
+    "image": "/images/blackshort.jpeg"
+  }
+]
